@@ -1,5 +1,5 @@
 # D20Game
-C++ project recreating a simplified version of dungeons and dragons
+C++ project recreating a simplified version of dungeons and dragons.
 
 # Desciption
 A console application to allow a user to play a simplified version of Dungeons and Dragons.
