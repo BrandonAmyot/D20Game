@@ -1,5 +1,4 @@
-//! @file 
-//! @author Vance De Waele - 25149436
+//! @file
 //! Implementation of the Builder Pattern. This is the implementation of a 
 //! concrete builder.
 #pragma once
