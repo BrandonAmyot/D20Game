@@ -1,5 +1,4 @@
 //! @file 
-//! @author Vance De Waele - 25149436
 //! Implementation of the Builder Pattern. This is the implementation of a 
 //! director for the builder pattern.
 #pragma once
