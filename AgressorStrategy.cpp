@@ -1,5 +1,4 @@
 //! @file
-//! @author Tarik Azzouni - 27013701
 //! @brief Implementation file for Agressor Strategy
 //!
 #pragma once
