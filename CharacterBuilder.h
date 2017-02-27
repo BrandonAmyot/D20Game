@@ -1,5 +1,4 @@
-//! @file 
-//! @author Vance De Waele - 25149436
+//! @file
 //! Implementation of the Builder Pattern. This is an abstract class that provides
 //! the structure for the various builders implemented.
 #pragma once
