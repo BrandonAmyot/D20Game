@@ -1,5 +1,4 @@
-//! @file 
-//! @author Vance De Waele - 25149436
+//! @file
 //! Implementation of the Character class. Modified the class by adding some methods
 //! needed for the implementation of the Builder Pattern and the various requirements
 //! of this assignment.
