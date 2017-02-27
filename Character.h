@@ -1,5 +1,4 @@
-//! @file 
-//! @author Vance De Waele - 25149436
+//! @file
 //! Character class header file. The file has had a few methods added in to deal with the
 //! needs of the Builder Pattern as well as the level-dependent requirements of this assignment.
 
