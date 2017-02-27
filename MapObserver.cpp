@@ -1,6 +1,5 @@
 //!@file
 //!@brief Implementation of watcher class.
-//!@author Brandon Amyot - 26990940
 //!This watcher class CharacterObserver updates the subject when it received the notify call.
 
 #include "MapObserver.h"
@@ -15,7 +14,7 @@ MapObserver::MapObserver(Map* m) {
 	_subject->Attach(this);
 };
 MapObserver::~MapObserver() {
-	//Upon destruction, detaches itself from its Character      
+	//Upon destruction, detaches itself from its CharacterÂ Â Â Â   
 	_subject->Detach(this);
 };
 void MapObserver::Update() {
