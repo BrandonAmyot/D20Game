@@ -1,6 +1,5 @@
 //!@file
 //!@brief Implementation of Subject class
-//!@author Brandon Amyot - 26990940
 //!This Subject class is designed to attach and update the observer
 
 #include "Subject.h"
